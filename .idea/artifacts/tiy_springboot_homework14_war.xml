@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="tiy.springboot.homework14:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="spring-boot.war">
+      <element id="artifact" artifact-name="tiy.springboot.homework14:war exploded" />
+    </root>
+  </artifact>
+</component>
